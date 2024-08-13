@@ -1,6 +1,6 @@
 {
   "version": "0.2.0",
-  "configuratoins": [
+  "configurations": [
     {
       "stopOnEntry": false,
       "name": "(lldb) Debug",
@@ -14,6 +14,5 @@
       },
       "preLaunchTask": "build-debug"
     }
-    
   ]
 }

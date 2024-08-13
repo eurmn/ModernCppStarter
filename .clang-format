@@ -1,10 +1,9 @@
 ---
-  BasedOnStyle: Google
+  BasedOnStyle: Microsoft
   AccessModifierOffset: '-2'
   AlignTrailingComments: 'true'
   AllowAllParametersOfDeclarationOnNextLine: 'false'
   AlwaysBreakTemplateDeclarations: 'No'
-  BreakBeforeBraces: Attach
   ColumnLimit: '100'
   ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
   IncludeBlocks: Regroup
@@ -13,4 +12,5 @@
   NamespaceIndentation: All
   BreakBeforeBinaryOperators: All
   BreakBeforeTernaryOperators: 'true'
+  SortIncludes: 'false'
 ...

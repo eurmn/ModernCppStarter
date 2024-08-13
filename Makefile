@@ -13,4 +13,4 @@ debug/dev:
 
 debug/all:
 	make debug/configure
-	make debug
+	make debug/dev

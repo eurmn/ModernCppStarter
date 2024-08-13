@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configuratoins": [
+    {
+      "stopOnEntry": false,
+      "name": "(lldb) Debug",
+      "type": "lldb",
+      "request": "launch",
+      "program": "${workspaceFolder}/build/debug/standalone/Greeter",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "env": {
+        "GDK_BACKEND": "wayland"
+      },
+      "preLaunchTask": "build-debug"
+    }
+    
+  ]
+}

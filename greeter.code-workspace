@@ -27,7 +27,7 @@
       "ms-vscode.cmake-tools",
       "twxs.cmake",
       "vadimcn.vscode-lldb",
-	  "ms-vscode.makefile-tools"
+      "ms-vscode.makefile-tools"
     ]
   }
 }
